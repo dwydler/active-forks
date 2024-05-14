@@ -22,7 +22,7 @@ on:
     paths-ignore:
       - '.github/**'
   schedule:
-    - cron: '35 12 * * 2'
+    - cron: '35 07 * * 2'
 
 jobs:
   analyze:
